@@ -17,7 +17,7 @@ import java.util.ArrayList;
 import java.util.Calendar;
 
 public class MonthViewActivity extends AppCompatActivity {
-    int year,month, days,dayofweek,endofday;
+    int year,month,dayofweek,endofday;
     static dayAdapter dayadpter;
 
     @Override
